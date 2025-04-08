@@ -8,8 +8,11 @@
   border: 1px solid#000;
   border-radius: 10px;
   overflow: hidden;
+  margin: 10px 0;
 }
 
 .inner{
+  text-align: right;
+  transition: 0.5s ease-in;
   background-color: rgb(12, 171, 47);
 }
