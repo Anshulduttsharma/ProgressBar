@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.outer{
+  border: 1px solid#000;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.inner{
+  background-color: rgb(12, 171, 47);
+}
